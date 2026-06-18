@@ -102,7 +102,7 @@ Privacy note: GitHub commits can be connected to an email address. If you wish t
 
 I made a simple template that you can copy. There is no code and only a `README` file:
 
-1. Open `readme-time-capsule-template` in the class org.
+1. Open [readme-time-capsule-template](https://github.com/Summer-2026-Coding-Club/readme-time-capsule-template)
 2. Click **Use this template**.
 3. Choose **Create a new repository**.
 4. Owner should be `Summer-2026-Coding-Club`.
