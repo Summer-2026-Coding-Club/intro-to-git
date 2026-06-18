@@ -280,7 +280,7 @@ git commit -m "message"
 git push
 ```
 
-That small loop is enough to start building good habits.
+That small loop is enough to start building good habits. Also ask LLMs/Agents for help with git, they are great at it.
 
 ## Helpful links
 
