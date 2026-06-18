@@ -6,9 +6,7 @@ The goal is not to memorize every Git command. The goal is for every student to 
 
 [Summer-2026-Coding-Club](https://github.com/Summer-2026-Coding-Club)
 
-The project is intentionally simple: a Markdown-only `README.md` called a **README Time Capsule**. By the end, students should be able to browse each other's repos and see a small, funny, personal Markdown page each person made.
-
-## The Shared Demo
+## Shared Demo
 
 Across all three levels, students work on the same project:
 
