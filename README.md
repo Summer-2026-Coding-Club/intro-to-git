@@ -2,8 +2,6 @@
 
 This folder is a small Git course for students with different experience levels.
 
-The goal is not to memorize every Git command. The goal is for every student to finish with a real repository in the class GitHub organization:
-
 [Summer-2026-Coding-Club](https://github.com/Summer-2026-Coding-Club)
 
 ## Shared Demo
