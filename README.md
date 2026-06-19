@@ -6,18 +6,10 @@ This folder is a small Git course for students with different experience levels.
 
 ## Shared Demo
 
-Across all three levels, students work on the same project:
+In each document there is instructions for a simple git starter project you can follow to get some practice.
 
 ```text
 NAME-time-capsule
-```
-
-Example:
-
-```text
-marco-time-capsule
-secret-time-capsule
-the-end-of-time-capsule
 ```
 
 The repo contains a `README.md` with things like:
@@ -43,19 +35,6 @@ Students who need Git installed should use:
 
 That guide covers Windows, macOS, Linux, checking `git --version`, setting name/email, and common first setup tips.
 
-## My Take
-
-Git can feel confusing because people explain too many commands at once. For beginners, I think Git makes more sense when you use it for something small first.
-
-The first win is simple:
-
-1. Make a repo.
-2. Change a file.
-3. Save the change as a commit.
-4. Push it to GitHub.
-5. Let someone else see it.
-
-Everything else builds on that.
 
 ## Helpful Sources
 
